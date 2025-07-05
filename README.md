@@ -1,4 +1,4 @@
-#Encryptix-Task-1
+# Encryptix-Task-1
 This project is a clean Home Decoration Landing Page built using HTML and CSS. It uses semantic HTML5 elements and modern CSS techniques for layout and styling to create an elegant presentation of home decor products and services.
 
 # Here's some Capture Moment during my code
